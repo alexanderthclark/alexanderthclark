@@ -1,4 +1,4 @@
-I'm a data scientist at LinkedIn and adjunct faculty at Columbia. I earned a PhD in economics with a focus on microeconomic theory.
+I'm a data scientist and adjunct faculty at Columbia. I earned a PhD in economics with a focus on microeconomic theory.
 
 Get in touch with me through [LinkedIn](https://www.linkedin.com/in/alexanderthclark/) or [Twitter](https://twitter.com/ale_xanderclark). Find my work on [Leanpub](https://leanpub.com/u/alexanderthclark).
 <!---
